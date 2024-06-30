@@ -1,0 +1,17 @@
+C:\Users\erick\source\repos\CalculadoraImcProntaa\CalculadoraImcProntaa\bin\Debug\net8.0-windows\CalculadoraImcProntaa.exe
+C:\Users\erick\source\repos\CalculadoraImcProntaa\CalculadoraImcProntaa\bin\Debug\net8.0-windows\CalculadoraImcProntaa.deps.json
+C:\Users\erick\source\repos\CalculadoraImcProntaa\CalculadoraImcProntaa\bin\Debug\net8.0-windows\CalculadoraImcProntaa.runtimeconfig.json
+C:\Users\erick\source\repos\CalculadoraImcProntaa\CalculadoraImcProntaa\bin\Debug\net8.0-windows\CalculadoraImcProntaa.dll
+C:\Users\erick\source\repos\CalculadoraImcProntaa\CalculadoraImcProntaa\bin\Debug\net8.0-windows\CalculadoraImcProntaa.pdb
+C:\Users\erick\source\repos\CalculadoraImcProntaa\CalculadoraImcProntaa\obj\Debug\net8.0-windows\CalculadoraImcProntaa.csproj.GenerateResource.cache
+C:\Users\erick\source\repos\CalculadoraImcProntaa\CalculadoraImcProntaa\obj\Debug\net8.0-windows\CalculadoraImcProntaa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\source\repos\CalculadoraImcProntaa\CalculadoraImcProntaa\obj\Debug\net8.0-windows\CalculadoraImcProntaa.AssemblyInfoInputs.cache
+C:\Users\erick\source\repos\CalculadoraImcProntaa\CalculadoraImcProntaa\obj\Debug\net8.0-windows\CalculadoraImcProntaa.AssemblyInfo.cs
+C:\Users\erick\source\repos\CalculadoraImcProntaa\CalculadoraImcProntaa\obj\Debug\net8.0-windows\CalculadoraImcProntaa.csproj.CoreCompileInputs.cache
+C:\Users\erick\source\repos\CalculadoraImcProntaa\CalculadoraImcProntaa\obj\Debug\net8.0-windows\CalculadoraImcProntaa.dll
+C:\Users\erick\source\repos\CalculadoraImcProntaa\CalculadoraImcProntaa\obj\Debug\net8.0-windows\refint\CalculadoraImcProntaa.dll
+C:\Users\erick\source\repos\CalculadoraImcProntaa\CalculadoraImcProntaa\obj\Debug\net8.0-windows\CalculadoraImcProntaa.pdb
+C:\Users\erick\source\repos\CalculadoraImcProntaa\CalculadoraImcProntaa\obj\Debug\net8.0-windows\CalculadoraImcProntaa.genruntimeconfig.cache
+C:\Users\erick\source\repos\CalculadoraImcProntaa\CalculadoraImcProntaa\obj\Debug\net8.0-windows\ref\CalculadoraImcProntaa.dll
+C:\Users\erick\source\repos\CalculadoraImcProntaa\CalculadoraImcProntaa\obj\Debug\net8.0-windows\CalculadoraImcProntaa.Calculadora.resources
+C:\Users\erick\source\repos\CalculadoraImcProntaa\CalculadoraImcProntaa\obj\Debug\net8.0-windows\CalculadoraImcProntaa.Properties.Resources.resources
